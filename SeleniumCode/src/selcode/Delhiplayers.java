@@ -4,7 +4,7 @@ public class Delhiplayers implements Ipltream {
 
 	@Override
 	public void chennaisuperkings() {
-		// TODO Auto-generated method stub
+	   system.println ("captain dhoni");
 		
 	}
 
